@@ -1,0 +1,1 @@
+add to the file C:\Users\T560\Desktop\test\new-text.txt This content: My Name is Abdul Rehman Aziz!
